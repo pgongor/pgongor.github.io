@@ -1,0 +1,8 @@
+title: pgongor
+description: Experimentos de programación y proyectos personales
+theme: minima
+
+header_pages:
+  - about.md
+  - blog.md
+  - projects.md
