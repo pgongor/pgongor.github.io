@@ -4,10 +4,16 @@ title: Projects
 permalink: /projects/
 ---
 
-## Proyectos
+<div class="project-grid">
 
-# RetroLab
+<div class="project-card">
 
-Laboratorio de mini proyectos con estética retro.
+<h3>RetroLab</h3>
 
-➡️ https://pgongor.github.io/retro-lab
+<p>Laboratorio de mini-proyectos retro en JavaScript: Pong, Snake, calculadora y más.</p>
+
+<a href="https://pgongor.github.io/retro-lab">Abrir proyecto →</a>
+
+</div>
+
+</div>
