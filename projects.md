@@ -6,4 +6,8 @@ permalink: /projects/
 
 ## Proyectos
 
-- RetroLab (en construcción)
+# RetroLab
+
+Laboratorio de mini proyectos con estética retro.
+
+➡️ https://pgongor.github.io/retro-lab
