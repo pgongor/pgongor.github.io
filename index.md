@@ -5,9 +5,12 @@ title: Home
 
 # Pedro González
 
-Ingeniero de Software
-Profesor
-Hobbit
+Ingeniero de Software.
+
+Profesor.
+
+Hobbit.
+
 
 ---
 
